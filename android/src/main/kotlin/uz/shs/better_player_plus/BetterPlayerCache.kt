@@ -1,4 +1,4 @@
-package uz.shs.better_player_plus
+package uz.shs.better_player_plus_for_t
 
 import android.content.Context
 import android.util.Log

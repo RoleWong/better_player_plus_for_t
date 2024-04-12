@@ -1,4 +1,4 @@
-library better_player_plus;
+library better_player_plus_for_t;
 
 export 'src/asms/better_player_asms_audio_track.dart';
 export 'src/asms/better_player_asms_data_holder.dart';

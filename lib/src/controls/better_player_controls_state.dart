@@ -1,8 +1,8 @@
 import 'dart:io';
 import 'dart:math';
-import 'package:better_player_plus/better_player_plus.dart';
-import 'package:better_player_plus/src/controls/better_player_clickable_widget.dart';
-import 'package:better_player_plus/src/core/better_player_utils.dart';
+import 'package:better_player_plus_for_t/better_player_plus_for_t.dart';
+import 'package:better_player_plus_for_t/src/controls/better_player_clickable_widget.dart';
+import 'package:better_player_plus_for_t/src/core/better_player_utils.dart';
 import 'package:collection/collection.dart' show IterableExtension;
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';

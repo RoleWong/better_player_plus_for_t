@@ -1,8 +1,8 @@
 import 'dart:async';
-import 'package:better_player_plus/better_player_plus.dart';
-import 'package:better_player_plus/src/configuration/better_player_controller_event.dart';
-import 'package:better_player_plus/src/core/better_player_utils.dart';
-import 'package:better_player_plus/src/core/better_player_with_controls.dart';
+import 'package:better_player_plus_for_t/better_player_plus_for_t.dart';
+import 'package:better_player_plus_for_t/src/configuration/better_player_controller_event.dart';
+import 'package:better_player_plus_for_t/src/core/better_player_utils.dart';
+import 'package:better_player_plus_for_t/src/core/better_player_with_controls.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:visibility_detector/visibility_detector.dart';

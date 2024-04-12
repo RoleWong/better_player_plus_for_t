@@ -1,4 +1,4 @@
-group 'uz.shs.better_player_plus'
+group 'uz.shs.better_player_plus_for_t'
 version '1.0-SNAPSHOT'
 
 buildscript {
@@ -48,7 +48,7 @@ android {
     }
 
     defaultConfig {
-        minSdkVersion 21
+        minSdkVersion 19
     }
 
     dependencies {
