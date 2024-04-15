@@ -1,4 +1,4 @@
-group 'uz.shs.better_player_plus_for_t'
+group 'uz.shs.better_player_plus'
 version '1.0-SNAPSHOT'
 
 buildscript {
